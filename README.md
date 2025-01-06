@@ -1,0 +1,2 @@
+# Real-time-detection-tracking-and-classification-of-aerial-object-using-AI-approachs
+This project combines YOLO detection, Random Forest classification, and tracking algorithms to identify and track aerial objects like drones, eagles, and birds in real-time. Using Python, OpenCV, and scikit-learn, it extracts features like velocity and acceleration, tackling occlusion and ensuring smooth performance.
